@@ -22,3 +22,9 @@ body {
 main {
   flex-grow: 2;
 }
+
+.bob {
+  margin-top: 10em;
+  margin-bottom: 5em;
+  justify-content: center;
+}
